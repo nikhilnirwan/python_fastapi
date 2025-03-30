@@ -4,10 +4,13 @@
 2. activate environment
 # source venv/bin/activate
 
-3. install dependency
+3. deactivate environment
+# deactivate
+
+4. install dependency
 pip install fastapi uvicorn pymongo
 
-4. to run code use bellow command
+5. to run code use bellow command
 uvicorn main:app --reload # reload every time if you change any file a single word
 
 
