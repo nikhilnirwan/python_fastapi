@@ -1,10 +1,10 @@
 1 . create env 1st
 # command: python3 -m venv venv
 
-2. activate envirnment
+2. activate environment
 # source venv/bin/activate
 
-3. install dependancys
+3. install dependency
 pip install fastapi uvicorn pymongo
 
 4. to run code use bellow command
